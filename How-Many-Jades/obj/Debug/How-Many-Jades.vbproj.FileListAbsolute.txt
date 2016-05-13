@@ -1,0 +1,24 @@
+C:\Users\Wilson\Desktop\How-Many-Jades\How-Many-Jades\bin\Debug\How-Many-Jades.exe.config
+C:\Users\Wilson\Desktop\How-Many-Jades\How-Many-Jades\bin\Debug\How-Many-Jades.exe
+C:\Users\Wilson\Desktop\How-Many-Jades\How-Many-Jades\bin\Debug\How-Many-Jades.pdb
+C:\Users\Wilson\Desktop\How-Many-Jades\How-Many-Jades\bin\Debug\How-Many-Jades.xml
+C:\Users\Wilson\Desktop\How-Many-Jades\How-Many-Jades\obj\Debug\How_Many_Jades.Form1.resources
+C:\Users\Wilson\Desktop\How-Many-Jades\How-Many-Jades\obj\Debug\How_Many_Jades.Resources.resources
+C:\Users\Wilson\Desktop\How-Many-Jades\How-Many-Jades\obj\Debug\How-Many-Jades.vbproj.GenerateResource.Cache
+C:\Users\Wilson\Desktop\How-Many-Jades\How-Many-Jades\obj\Debug\How-Many-Jades.exe
+C:\Users\Wilson\Desktop\How-Many-Jades\How-Many-Jades\obj\Debug\How-Many-Jades.xml
+C:\Users\Wilson\Desktop\How-Many-Jades\How-Many-Jades\obj\Debug\How-Many-Jades.pdb
+J:\Personal Projects\Gaming Related\Dungeon Rush Projects\How-Many-Jades\How-Many-Jades\bin\Debug\How-Many-Jades.exe.config
+J:\Personal Projects\Gaming Related\Dungeon Rush Projects\How-Many-Jades\How-Many-Jades\obj\Debug\How-Many-Jades.exe
+J:\Personal Projects\Gaming Related\Dungeon Rush Projects\How-Many-Jades\How-Many-Jades\obj\Debug\How-Many-Jades.xml
+J:\Personal Projects\Gaming Related\Dungeon Rush Projects\How-Many-Jades\How-Many-Jades\obj\Debug\How-Many-Jades.pdb
+D:\Personal Projects\Gaming Related\Dungeon Rush Projects\How-Many-Jades\How-Many-Jades\bin\Debug\How-Many-Jades.exe.config
+D:\Personal Projects\Gaming Related\Dungeon Rush Projects\How-Many-Jades\How-Many-Jades\obj\Debug\How-Many-Jades.exe
+D:\Personal Projects\Gaming Related\Dungeon Rush Projects\How-Many-Jades\How-Many-Jades\obj\Debug\How-Many-Jades.xml
+D:\Personal Projects\Gaming Related\Dungeon Rush Projects\How-Many-Jades\How-Many-Jades\obj\Debug\How-Many-Jades.pdb
+D:\Personal Projects\Gaming Related\Dungeon Rush Projects\How-Many-Jades\How-Many-Jades\bin\Debug\How-Many-Jades.exe
+D:\Personal Projects\Gaming Related\Dungeon Rush Projects\How-Many-Jades\How-Many-Jades\bin\Debug\How-Many-Jades.pdb
+D:\Personal Projects\Gaming Related\Dungeon Rush Projects\How-Many-Jades\How-Many-Jades\bin\Debug\How-Many-Jades.xml
+D:\Personal Projects\Gaming Related\Dungeon Rush Projects\How-Many-Jades\How-Many-Jades\obj\Debug\How_Many_Jades.Form1.resources
+D:\Personal Projects\Gaming Related\Dungeon Rush Projects\How-Many-Jades\How-Many-Jades\obj\Debug\How_Many_Jades.Resources.resources
+D:\Personal Projects\Gaming Related\Dungeon Rush Projects\How-Many-Jades\How-Many-Jades\obj\Debug\How-Many-Jades.vbproj.GenerateResource.Cache
